@@ -1,0 +1,5 @@
+# Preserve the exact bytes recorded in site-manifest.json.
+* -text
+*.png binary
+*.jpg binary
+*.jpeg binary

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+private*/
+snapshots/
+originals/
+derivatives/
+checkpoints/
+audit/
+.env*
+*.ged
+*.csv
